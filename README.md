@@ -31,11 +31,3 @@ app.get('/goals', async (req, res) => {
 });
 ```
 
-
-
-
-This diagram shows the flow of data when the client requests goals data from the microservice. The microservice fetches the data from the database and sends it back to the client.
-
-```
-
-Feel free to customize this README with additional information or formatting as needed for your project!
