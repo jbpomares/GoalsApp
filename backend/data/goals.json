@@ -1,0 +1,24 @@
+[
+    {
+      "_id": "1",
+      "name": "Goal 1",
+      "date": "2024-05-20",
+      "amount": 1000,
+      "current": 500
+    },
+    {
+      "_id": "2",
+      "name": "Goal 2",
+      "date": "2024-06-15",
+      "amount": 2000,
+      "current": 1000
+    },
+    {
+      "_id": "3",
+      "name": "Goal 3",
+      "date": "2024-07-10",
+      "amount": 1500,
+      "current": 750
+    }
+  ]
+  
